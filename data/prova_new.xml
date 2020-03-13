@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<translationTable language="english" xmlns:gt="prova_new.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="prova_new.xml translationTable.xsd">
+  <entry result="Singleplayer" stringName="MAINMENU_buttonSinglePlayer"/>
+  <entry result="Editor" stringName="MAINMENU_buttonEditor"/>
+  <entry result="Options" stringName="MAINMENU_buttonOptions"/>
+  <entry result="Exit" stringName="MAINMENU_buttonQuit"/>
+  <entry result="Start!" stringName="SINGLEPLAYER_buttonStart"/>
+  <entry result="Back to menu" stringName="SINGLEPLAYER_buttonExit"/>
+  <entry result="Apply" stringName="OPTIONS_buttonApply"/>
+  <entry result="Save and close" stringName="OPTIONS_buttonSave"/>
+  <entry result="Cancel" stringName="OPTIONS_buttonCancel"/>
+  <entry result="Options" stringName="OPTIONS_Title"/>
+  <entry result="Language" stringName="OPTIONS_LanguageText"/>
+  <entry result="English" stringName="LANG_english"/>
+  <entry result="Italian" stringName="LANG_italian"/>
+  <entry result="Spanish" stringName="LANG_spanish"/>
+  <entry result="French" stringName="LANG_french"/>
+  <entry result="Arabic" stringName="LANG_arabic"/>
+  <entry result="Quit" stringName="GAME_pauseMenuButtonQuit"/>
+  <entry result="Close" stringName="GAME_pauseMenuButtonClose"/>
+  <entry result="File" stringName="EDITOR_File"/>
+  <entry result="New" stringName="EDITOR_File_New"/>
+  <entry result="Open" stringName="EDITOR_File_Open"/>
+  <entry result="Save" stringName="EDITOR_File_Save"/>
+  <entry result="Exit" stringName="EDITOR_File_Exit"/>
+  <entry result="Edit" stringName="EDITOR_Edit"/>
+  <entry result="Update Normals" stringName="EDITOR_Edit_UpdateNormals"/>
+  <entry result="Tools" stringName="EDITOR_Tools"/>
+  <entry result="Toggle &quot;Add Object&quot; window" stringName="EDITOR_Tools_AddObject"/>
+  <entry result="Toggle terrain brushes" stringName="EDITOR_Tools_TerrainBrush"/>
+  <entry result="Add" stringName="EDITOR_addObjectButtonAdd"/>
+  <entry result="Close" stringName="EDITOR_newMapButtonClose"/>
+  <entry result="Create" stringName="EDITOR_newMapButtonCreate"/>
+  <entry result="Close" stringName="EDITOR_openMapButtonClose"/>
+  <entry result="Open" stringName="EDITOR_openMapButtonOpen"/>
+  <entry result="Create new scenario" stringName="EDITOR_newScenario"/>
+  <entry result="Choose a name (max 30 characters)." stringName="EDITOR_newScenarioName"/>
+  <entry result="Object properties" stringName="EDITOR_properties"/>
+  <entry result="Object name:" stringName="EDITOR_propertiesName"/>
+  <entry result="Apply" stringName="EDITOR_propertiesApply"/>
+  <entry result="Cancel" stringName="EDITOR_propertiesCancel"/>
+  <entry result="Untitled" stringName="EDITOR_defaultMapName"/>
+  <entry result="Buildings" stringName="EDITOR_buildings"/>
+  <entry result="Units" stringName="EDITOR_units"/>
+  <entry result="Decorations" stringName="EDITOR_decorations"/>
+  <entry result="Egyptian stronghold" stringName="EDITORTREE_CATEGORY_egyptianstronghold"/>
+  <entry result="Roman stronghold" stringName="EDITORTREE_CATEGORY_romanstronghold"/>
+  <entry result="Outposts" stringName="EDITORTREE_CATEGORY_outposts"/>
+  <entry result="Trees" stringName="EDITORTREE_CATEGORY_trees"/>
+  <entry result="Grass" stringName="EDITORBRUSH_GRASS"/>
+  <entry result="Grass 1" stringName="EDITORBRUSH_GRASS_1"/>
+  <entry result="Grass 2" stringName="EDITORBRUSH_GRASS_2"/>
+  <entry result="Grass 3" stringName="EDITORBRUSH_GRASS_3"/>
+  <entry result="Road 1" stringName="EDITORBRUSH_ROAD_1"/>
+  <entry result="Road 2" stringName="EDITORBRUSH_ROAD_2"/>
+  <entry result="Road 3" stringName="EDITORBRUSH_ROAD_3"/>
+  <entry result="Ground 1" stringName="EDITORBRUSH_GROUND_1"/>
+  <entry result="Ground 2" stringName="EDITORBRUSH_GROUND_2"/>
+  <entry result="Ground 3" stringName="EDITORBRUSH_GROUND_3"/>
+  <entry result="Sand 1" stringName="EDITORBRUSH_SAND_1"/>
+  <entry result="Unable to place the building at the selected point, as there are no nearby settlements." stringName="EDITOR_noSettlementsAround"/>
+  <entry result="Unable to place the building at the selected point, as it is a steep or inaccessible place, like the sea." stringName="EDITOR_impassablePoint"/>
+  <entry result="Press the LEFT mouse button to position the structure in the desired point. Press the RIGHT mouse button to abort this operation." stringName="EDITOR_canAddStructure"/>
+  <entry result="Deleting this structure the rest of the settlement will also be eliminated. Do you really want to proceed?" stringName="QUESTION_deleteAll"/>
+  <entry result="Typed name corresponds to an existing map. Do you want to overwrite it?" stringName="QUESTION_overwriteMap"/>
+  <entry result="Trees" stringName="EDITORTREE_CATEGORY_trees"/>
+  <entry result="Barracks" stringName="WORD_ebarracks"/>
+  <entry result="Blacksmith" stringName="WORD_eblacksmith"/>
+  <entry result="Temple of Osiris" stringName="WORD_eosiristemple"/>
+  <entry result="Tavern" stringName="WORD_etavern"/>
+  <entry result="Temple" stringName="WORD_etemple"/>
+  <entry result="Townhall" stringName="WORD_etownhall"/>
+  <entry result="Arena" stringName="WORD_rarena"/>
+  <entry result="Barracks" stringName="WORD_rbarracks"/>
+  <entry result="Blacksmith" stringName="WORD_rblacksmith"/>
+  <entry result="Tavern" stringName="WORD_rtavern"/>
+  <entry result="Temple" stringName="WORD_rtemple"/>
+  <entry result="Townhall" stringName="WORD_rtownhall"/>
+  <entry result="Roman outpost" stringName="WORD_routpost"/>
+  <entry result="Broadleaf 1" stringName="WORD_broadleaf_1"/>
+  <entry result="Broadleaf 2" stringName="WORD_broadleaf_2"/>
+  <entry result="Cypress" stringName="WORD_cypress"/>
+  <entry result="Tropical tree 1" stringName="WORD_jasmimmanga"/>
+  <entry result="Palm 1" stringName="WORD_palm_1"/>
+  <entry result="Game is being started..." stringName="WORD_gameStarted"/>
+  <entry result="Player 1" stringName="WORD_player_1"/>
+  <entry result="Player 2" stringName="WORD_player_2"/>
+  <entry result="Player 3" stringName="WORD_player_3"/>
+  <entry result="Player 4" stringName="WORD_player_4"/>
+  <entry result="Player 5" stringName="WORD_player_5"/>
+  <entry result="Player 6" stringName="WORD_player_6"/>
+  <entry result="Player 7" stringName="WORD_player_7"/>
+  <entry result="Player 8" stringName="WORD_player_8"/>
+  <entry result="Number of players" stringName="WORD_playersNumber"/>
+  <entry result="Error code" stringName="WORD_errorCode"/>
+  <entry result="Yes" stringName="WORD_yes"/>
+  <entry result="No" stringName="WORD_no"/>
+  <entry result="Rome" stringName="RACE_Rome"/>
+  <entry result="Egypt" stringName="RACE_Egypt"/>
+  <entry result="Unable to find or process DATA file.\nForced application shutdown has started." stringName="ERROR_data"/>
+  <entry result="Unable to find or process SETTLEMENTS file.\nForced application shutdown has started." stringName="ERROR_settlements"/>
+  <entry result="Unable to find or process MENU DATA file.\nForced application shutdown has started." stringName="ERROR_menuData"/>
+  <entry result="Unable to find (or communicate with) the audio device.\nNo sound will be played as long as the error persists." stringName="WARNING_audioDevice"/>
+  <entry result="q" stringName="prova"/>
+</translationTable>

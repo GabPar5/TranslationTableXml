@@ -173,9 +173,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="team.cxx" />
+    <ClCompile Include="translationTable.cxx" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="team.hxx" />
+    <ClInclude Include="translationTable.hxx" />
   </ItemGroup>
   <ItemGroup>
     <Xml Include="team.xml">

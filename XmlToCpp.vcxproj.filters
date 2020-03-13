@@ -7,6 +7,9 @@
     <ClCompile Include="team.cxx">
       <Filter>Source files</Filter>
     </ClCompile>
+    <ClCompile Include="translationTable.cxx">
+      <Filter>Source files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source files">
@@ -21,6 +24,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="team.hxx">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="translationTable.hxx">
       <Filter>Header files</Filter>
     </ClInclude>
   </ItemGroup>
