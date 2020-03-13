@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="team.cxx">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{168fbf8a-b6ea-4798-82a3-15a2a0a50a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{dd5bd735-9dcc-4f13-82bd-401f7f49bf2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{ac697a2d-512e-484b-89dc-ae2dd8094c02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="team.hxx">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="team.xml">
+      <Filter>Resource files</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <Xsd Include="team.xsd">
+      <Filter>Resource files</Filter>
+    </Xsd>
+  </ItemGroup>
+</Project>

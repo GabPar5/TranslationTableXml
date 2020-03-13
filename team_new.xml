@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectTeam xmlns:gt="team_new.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="team_new.xml library.xsd">
+  <TeamName>Skywalkers</TeamName>
+  <Member>
+    <Name>Anakin</Name>
+    <BrainPower>115</BrainPower>
+  </Member>
+  <Member>
+    <Name>Luke</Name>
+    <BrainPower>108</BrainPower>
+  </Member>
+  <Member>
+    <Name>Leia</Name>
+    <BrainPower>128</BrainPower>
+  </Member>
+  <Member>
+    <Name>Yoda</Name>
+    <BrainPower>300</BrainPower>
+  </Member>
+</ProjectTeam>
